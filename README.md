@@ -2,6 +2,9 @@
 
 This is my personal CLU inspired theme.
 I have changed nvim motion configs so change it back. Everthing is commented.
+#Features
+1. Floating terminal
+2. Meme picker 
 
 > [!CAUTION]
 > **These commands mess with `/root/`:**
